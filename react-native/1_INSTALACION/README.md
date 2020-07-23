@@ -1,4 +1,4 @@
-# 1. INSTALACIÓN
+# INSTALACIÓN
 
 El presente documento pretende ser una guía para la instalación de un ambiente para el desarrollo de aplicaciones en ReactNative.
 
@@ -28,5 +28,6 @@ Visual Studio Code es un editor de código fuente desarrollado por Microsoft par
 
 ![image](recursos/xcode.png)
 
-[Descargalo aqui](https://code.visualstudio.com/download)
+## Visual Studio Code
 
+[Descargalo aqui](https://code.visualstudio.com/download)
