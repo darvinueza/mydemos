@@ -1,1 +1,3 @@
 # REACTNATIVE
+
+## 1. INSTALACIÓN
