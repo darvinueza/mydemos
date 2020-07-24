@@ -6,11 +6,11 @@ El presente documento pretende ser una guía para la instalación de un ambiente
 
 Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript.
 
-- <a href="https://nodejs.org/" target="_blank">Descargalo aqui</a>
+[Descargalo aqui](https://nodejs.org/)
 
 ## EXPO
 
-<a href="https://expo.io" target="_blank">Expo</a> es un conjunto de herramientas, librerías y servicios los cuales te permiten desarrollar apps nativas en iOS y Android escritas en JavaScript. 
+[Expo](https://expo.io) es un conjunto de herramientas, librerías y servicios los cuales te permiten desarrollar apps nativas en iOS y Android escritas en JavaScript. 
 
 ### Comandos de Instalación
 
@@ -20,7 +20,7 @@ Node.js es un entorno en tiempo de ejecución multiplataforma, de código abiert
 
 Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS.
 
-<a href="https://code.visualstudio.com/download" target="_blank">Descargalo aqui</a>
+[Descargalo aqui](https://code.visualstudio.com/download)
 
 ### Extensiones
 
