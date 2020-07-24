@@ -24,4 +24,7 @@ Visual Studio Code es un editor de código fuente desarrollado por Microsoft par
 
 ### Extensiones
 
+- [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+- [React Native Snippets](https://marketplace.visualstudio.com/items?itemName=jundat95.react-native-snippet)
+
 - <a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native" target="_blank">React Native Tools</a>
