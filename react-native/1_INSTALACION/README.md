@@ -14,7 +14,7 @@ Node.js es un entorno en tiempo de ejecución multiplataforma, de código abiert
 
 ### Comandos de Instalación
 
-    # npm install -g expo-cli
+    # npm install expo-cli --global
 
 ## VISUAL STUDIO
 
@@ -26,7 +26,3 @@ Visual Studio Code es un editor de código fuente desarrollado por Microsoft par
 
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
 - [React Native Snippets](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-
-
-=====
-asda
