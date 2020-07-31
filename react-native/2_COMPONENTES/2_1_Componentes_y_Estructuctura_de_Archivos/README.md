@@ -2,7 +2,7 @@
 
 ## COMPONENTES
 
-Documentacion: https://reactnative.dev/docs/components-and-apis
+**Documentación:** https://reactnative.dev/docs/components-and-apis
 
 React Native define sus componentes en los siguientes grupos:
 
@@ -15,11 +15,18 @@ React Native define sus componentes en los siguientes grupos:
 
 ## ESTRUCTURTA
 
-Documentacion: https://es.reactjs.org/docs/faq-structure.html
+**Documentación:** https://es.reactjs.org/docs/faq-structure.html
 
-### 
-¿Hay una forma recomendada de estructurar los proyectos React?
+### ¿Hay una forma recomendada de estructurar los proyectos React?
 
 React no tiene opiniones sobre cómo poner los archivos en carpetas. Dicho esto, hay algunos enfoques comunes que son populares en el ecosistema que podrías considerar.
+
+### Agrupación por funcionalidades o rutas
+
+Una forma común de estructurar proyectos es ubicar CSS, JS y tests juntos dentro de carpetas agrupadas por funcionalidad o ruta.
+
+![ByFunctionality](resources/ByFunctionality.png)
+
+### Agrupando por tipo de archivo
 
 ### Agrupación por funcionalidades o rutas
