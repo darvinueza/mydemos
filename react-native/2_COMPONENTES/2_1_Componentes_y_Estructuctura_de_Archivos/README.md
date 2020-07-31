@@ -6,12 +6,12 @@ Documentacion: https://reactnative.dev/docs/components-and-apis
 
 React Native define sus componentes en los siguientes grupos:
 
-Componentes Básicos: https://reactnative.dev/docs/components-and-apis#basic-components
-Interfaz de usuario: https://reactnative.dev/docs/components-and-apis#user-interface
-Listas: https://reactnative.dev/docs/components-and-apis#list-views
-Componentes de iOS: https://reactnative.dev/docs/components-and-apis#ios-components-and-apis
-Componentes de Android: https://reactnative.dev/docs/components-and-apis#android-components-and-apis
-Otros: https://reactnative.dev/docs/components-and-apis#others
+- **Componentes Básicos:** https://reactnative.dev/docs/components-and-apis#basic-components
+- **Interfaz de usuario:** https://reactnative.dev/docs/components-and-apis#user-interface
+- **Listas:** https://reactnative.dev/docs/components-and-apis#list-views
+- **Componentes de iOS:** https://reactnative.dev/docs/components-and-apis#ios-components-and-apis
+- **Componentes de Android:** https://reactnative.dev/docs/components-and-apis#android-components-and-apis
+- **Otros:** https://reactnative.dev/docs/components-and-apis#others
 
 ## ESTRUCTURTA
 
