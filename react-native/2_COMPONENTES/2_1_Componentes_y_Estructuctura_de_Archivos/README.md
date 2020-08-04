@@ -31,4 +31,4 @@ Una forma común de estructurar proyectos es ubicar CSS, JS y tests juntos dentr
 
 Otra forma popular de estructurar proyectos es agrupar archivos similares, por ejemplo:
 
-![ByFunctionality](resources/ByFunctionality.png)
+![ByFunctionality](resources/ByFileType.png)
