@@ -31,4 +31,6 @@ Una forma común de estructurar proyectos es ubicar CSS, JS y tests juntos dentr
 
 Otra forma popular de estructurar proyectos es agrupar archivos similares, por ejemplo:
 
-![ByFunctionality](resources/ByFileType.png)
+![ByFunctionality](resources/ByFunctionality.png)
+
+Algunas personas también prefieren ir más lejos y separar los componentes en diferentes carpetas dependiendo de su función en la aplicación. Por ejemplo, [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) es una metodología de diseño basada en este principio.
