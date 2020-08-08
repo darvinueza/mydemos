@@ -5,14 +5,18 @@ import {
     StyleSheet 
 } from 'react-native';
 
+const wishList = ["wish 1", "wish 2", "wish 3"];
+
 class MainScreen extends Component {
   render() {
     return (
       <View style={styles.container}>
         <Text style={styles.titleTxt}>Lista de Deseos</Text>
-        <Text>Viajar a China</Text>
-        <Text>Audi</Text>
-        <Text>Moto</Text>
+        {
+            wishList.map(wish => 
+                <Text key={wish}>{wish}</Text>
+            )
+        }
       </View>
     );
   }
