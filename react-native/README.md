@@ -4,6 +4,6 @@ React Native es un marco de aplicación móvil de código abierto creado por Fac
 
 ## 1. INSTALACIÓN
 ## 2. COMPONENTES
-    2.1 Componentes y Estructuctura de Archivos
-    2.2 View & Text
-    2.3 JSX y Variables
+    2.0.0 Componentes y Estructura
+    2.0.1 View & Text
+    2.0.2 JSX y Variables

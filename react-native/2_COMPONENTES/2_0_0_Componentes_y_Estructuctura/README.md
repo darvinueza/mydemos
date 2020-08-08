@@ -1,5 +1,7 @@
 # 2.1 Componentes y Estructuctura de Archivos
 
+El presente documento pretende ser una guía para entender la estructura de archivos y sus componentes en ReactNative.
+
 ## COMPONENTES
 
 **Documentación:** https://reactnative.dev/docs/components-and-apis
