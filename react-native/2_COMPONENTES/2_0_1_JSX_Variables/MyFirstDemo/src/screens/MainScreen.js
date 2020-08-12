@@ -4,15 +4,17 @@ import {
     Text, 
     StyleSheet 
 } from 'react-native';
+import { wishList } from 'MyFirstDemo/src/data/WishData';
 
 class MainScreen extends Component {
   render() {
     return (
       <View style={styles.container}>
         <Text style={styles.titleTxt}>Lista de Deseos</Text>
-        <Text>Wish 1</Text>
-        <Text>Wish 2</Text>
-        <Text>Wish 3</Text>
+        {
+          wishList.map(wish => 
+            wish.wishMost && <Text key={wish.id}>{wish.name}</Text>)
+        }
       </View>
     );
   }
